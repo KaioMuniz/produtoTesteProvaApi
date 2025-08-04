@@ -50,3 +50,14 @@ src/
 ![2](https://github.com/user-attachments/assets/abc314ac-cd3e-46d1-bafd-3b215fb451b2)
 
 ![image](https://github.com/user-attachments/assets/17794a8b-ddba-4ffb-aca1-108271adfbd1)
+
+
+---
+
+## Contato
+
+Para dúvidas ou sugestões, entre em contato:  
+- kkaioribeiro@gmail.com
+- https://www.linkedin.com/in/kaiomuniz/
+
+---
