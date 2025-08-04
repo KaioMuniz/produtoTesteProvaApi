@@ -6,7 +6,7 @@ API de Produto que uma outra aplicação client irá utilizar, será usado para 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 11**
+- **Java 21**
 - **Spring Boot**
 - **Spring Data JPA**
 - **H2 Database (em memória)**
